@@ -1,6 +1,6 @@
-//Leetcode 136 - Single Number
-//Approach: XOR
-//Time: O(n), Space: O(1)
+// Leetcode 136 - Single Number
+// Approach: XOR
+// Time: O(n), Space: O(1)
 
 class Solution {
     public int singleNumber(int[] nums) {
