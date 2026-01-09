@@ -1,0 +1,21 @@
+// Leetcode 1752 - Check if Array Is Sorted and Rotated
+// Approach: Count how many times the array breaks ascending order
+// If breaks > 1 --> not sorted and rotated
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+class Solution {
+    public boolean check(int[] nums) {
+        int n = nums.length;
+        int count = 0;
+        for(int i=0; i<n-1; i++){
+            if(nums[i]>nums[i+1]){
+                count++;
+            }
+        }
+        if(nums[n-1]>nums[0]){
+            count++;
+        }
+        return count<=1;
+    }
+}
