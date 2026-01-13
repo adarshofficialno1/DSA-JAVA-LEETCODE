@@ -1,1 +1,1 @@
-DSA Solutions in Java.
+This repo contains DSA Solutions in Java.
