@@ -5,6 +5,7 @@ This repo contains DSA Solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -18,4 +19,8 @@ This repo contains DSA Solutions in Java.
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
