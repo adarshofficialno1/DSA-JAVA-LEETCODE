@@ -23,4 +23,12 @@ This repo contains DSA Solutions in Java.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
