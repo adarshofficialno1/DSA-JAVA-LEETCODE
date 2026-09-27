@@ -59,6 +59,7 @@ This repo contains DSA Solutions in Java.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -109,8 +110,13 @@ This repo contains DSA Solutions in Java.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
