@@ -46,6 +46,7 @@ This repo contains DSA Solutions in Java.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
