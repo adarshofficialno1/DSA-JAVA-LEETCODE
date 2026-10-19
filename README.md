@@ -48,6 +48,7 @@ This repo contains DSA Solutions in Java.
 | [0007-reverse-integer](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3524-find-x-value-of-array-i) |
@@ -142,4 +143,8 @@ This repo contains DSA Solutions in Java.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
