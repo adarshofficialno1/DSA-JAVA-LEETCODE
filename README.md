@@ -79,6 +79,7 @@ This repo contains DSA Solutions in Java.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -114,6 +115,7 @@ This repo contains DSA Solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
