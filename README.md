@@ -83,6 +83,7 @@ This repo contains DSA Solutions in Java.
 | [1957-delete-characters-to-make-fancy-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3110-score-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
