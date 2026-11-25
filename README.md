@@ -5,6 +5,7 @@ This repo contains DSA Solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -36,6 +37,7 @@ This repo contains DSA Solutions in Java.
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
