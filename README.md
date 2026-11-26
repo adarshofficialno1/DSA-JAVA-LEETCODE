@@ -56,6 +56,7 @@ This repo contains DSA Solutions in Java.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -122,6 +123,7 @@ This repo contains DSA Solutions in Java.
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
