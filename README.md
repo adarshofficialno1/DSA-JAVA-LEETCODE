@@ -5,6 +5,7 @@ This repo contains DSA Solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0414-third-maximum-number](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -28,6 +29,7 @@ This repo contains DSA Solutions in Java.
 | ------- |
 | [0022-generate-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -94,6 +96,7 @@ This repo contains DSA Solutions in Java.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adarshofficialno1/DSA-JAVA-LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
